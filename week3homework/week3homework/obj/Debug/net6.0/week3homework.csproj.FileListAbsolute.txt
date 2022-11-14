@@ -1,0 +1,15 @@
+C:\Users\semih\Desktop\c#\week3homework\week3homework\bin\Debug\net6.0\week3homework.exe
+C:\Users\semih\Desktop\c#\week3homework\week3homework\bin\Debug\net6.0\week3homework.deps.json
+C:\Users\semih\Desktop\c#\week3homework\week3homework\bin\Debug\net6.0\week3homework.runtimeconfig.json
+C:\Users\semih\Desktop\c#\week3homework\week3homework\bin\Debug\net6.0\week3homework.dll
+C:\Users\semih\Desktop\c#\week3homework\week3homework\bin\Debug\net6.0\week3homework.pdb
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\week3homework.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\week3homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\week3homework.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\week3homework.AssemblyInfo.cs
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\week3homework.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\week3homework.dll
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\refint\week3homework.dll
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\week3homework.pdb
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\week3homework.genruntimeconfig.cache
+C:\Users\semih\Desktop\c#\week3homework\week3homework\obj\Debug\net6.0\ref\week3homework.dll
